@@ -83,3 +83,5 @@ npm i -g gulp-cli
 #atualize seu npm
 npm i -g npm@8.3.2
 ```
+
+### :construct: Agora é só usar o open_code e ser feliz!
