@@ -30,7 +30,7 @@
     
 4. Mude essa configuração no seu terminal
     
-    ![Group 6.png](Group 6.png)
+    ![preferências/perfil/comando/executar comando como shell padrão](https://github.com/joaby-eficaz/configurando-ambiente-tray/blob/main/Group%206.png)
     
 5. Reinicie sua máquina
 6. Instale as gems na sua maquina
