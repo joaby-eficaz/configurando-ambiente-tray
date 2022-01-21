@@ -84,4 +84,4 @@ npm i -g gulp-cli
 npm i -g npm@8.3.2
 ```
 
-### :construct: Agora é só usar o open_code e ser feliz!
+### Agora é só usar o open_code e ser feliz!
