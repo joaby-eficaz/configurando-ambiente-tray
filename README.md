@@ -30,7 +30,7 @@
     
 4. Mude essa configuração no seu terminal
     
-    ![Group 6.png](Configurando%20um%20ambiente%20de%20desenvolvimento%20Tray%20e5eedcdbb54c4c17ba8538293a348e56/Group_6.png)
+    ![Group 6.png](Group 6.png)
     
 5. Reinicie sua máquina
 6. Instale as gems na sua maquina
