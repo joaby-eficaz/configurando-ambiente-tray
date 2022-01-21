@@ -1,4 +1,3 @@
-# configurando-ambiente-tray
 # Configurando um ambiente de desenvolvimento Tray
 
 > ⚠️ Atenção, esse artigo foi feito no dia 21/01/2022. Entretanto, as dependências estão sujeitas a qualquer tipo de mudança.
